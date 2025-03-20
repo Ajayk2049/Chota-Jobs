@@ -1,0 +1,35 @@
+/* index.css */
+@import "tailwindcss";
+
+/* Base transitions for smooth theme changes */
+:root, html.dark {
+  transition: background-color 1.5s ease, color 1.5s ease;
+}
+
+/* Default light theme */
+:root {
+  /* Default (light mode) colors */
+  --background: 255 255 255; /* White */
+  --background2: 243, 244, 246;
+  --background3 :49, 51, 54;
+  --text: 17 24 39; /* Gray-900 */
+  --primary: 37 99 235; /* Blue-600 */
+}
+
+/* Dark theme variables */
+html.dark {
+  /* Dark mode colors */
+  --background: 15 23 42; /* Dark gray */
+  --background2: 15 23 42;
+  --text: 226 232 240; /* Light gray */
+  --primary: 147 197 253; /* Light blue */
+  --background3: 15 23 42; 
+}
+
+/* Apply default theme to body */
+/* Ensure body takes full height and uses the correct theme */
+body {
+  background-color: rgb(var(--background));
+  color: rgb(var(--text));
+  min-height: 100vh;
+}
