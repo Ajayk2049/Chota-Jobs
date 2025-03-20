@@ -17,13 +17,11 @@ The site is designed to be **fully responsive** using **Tailwind CSS** and featu
 ## **📸 Screenshots**  
 
 ### **🏠 Homepage**  
-![Homepage Screenshot](https://github.com/Ajayk2049/Chota-Jobs/blob/main/Screenshots/Screenshot%202.png?raw=true)  
-<br>
-![Homepage Screenshot dark mode](https://github.com/Ajayk2049/Chota-Jobs/blob/main/Screenshots/Screenshot%202.png?raw=true)
-<br>
-![Homepage Screenshot mobile dark mode](https://github.com/Ajayk2049/Chota-Jobs/blob/main/Screenshots/Screen%20Shot%203.png?raw=true)
-<br>
-![Homepage Screenshot mobile](https://github.com/Ajayk2049/Chota-Jobs/blob/main/Screenshots/Screen%20Shot%204.png?raw=true)
+<img src="https://github.com/Ajayk2049/Chota-Jobs/blob/main/Screenshots/Screenshot%202.png?raw=true" alt="home page" width="600" />
+<img src="https://github.com/Ajayk2049/Chota-Jobs/blob/main/Screenshots/Screenshot%201.png?raw=true" alt="home page" width="600" />
+<img src="https://github.com/Ajayk2049/Chota-Jobs/blob/main/Screenshots/Screen%20Shot%204.png?raw=true" alt="home page" width="600" />
+<img src="https://github.com/Ajayk2049/Chota-Jobs/blob/main/Screenshots/Screen%20Shot%203.png?raw=true" alt="home page" width="600" />
+
 
 ---
 
