@@ -34,8 +34,8 @@ The site is designed to be **fully responsive** using **Tailwind CSS** and featu
        ```sh  
            cd Chota-Jobs
 3.   **Install dependencies:** 
-    ```sh
-       npm install
+     ```sh
+         npm install
 4.   **Start the development server:**
        ```sh   
          npm run dev
