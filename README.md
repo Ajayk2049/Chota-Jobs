@@ -1,2 +1,2 @@
 # Chota-Jobs
-A job Search portal which lets users search for jobs around them.
+A job search portal that lets users search for jobs around them.
