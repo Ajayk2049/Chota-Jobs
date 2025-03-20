@@ -30,9 +30,15 @@ The site is designed to be **fully responsive** using **Tailwind CSS** and featu
 1. **Clone the repository:**  
    ```sh 
    git clone https://github.com/Ajayk2049/Chota-Jobs.git
-2.   Navigate to the project directory:  cd Chota-Jobs
-3.   Install dependencies: npm install
-4.   Start the development server: npm run dev
+2.   **Navigate to the project directory:**  
+       ```sh  
+           cd Chota-Jobs
+3.   **Install dependencies:** 
+    ```sh
+       npm install
+4.   **Start the development server:**
+       ```sh   
+         npm run dev
 
 📜 License
 
